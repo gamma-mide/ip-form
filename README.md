@@ -1,2 +1,2 @@
 # ip-form
-mathmatical optimization
+mathematical optimization
